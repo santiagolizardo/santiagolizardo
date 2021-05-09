@@ -1,5 +1,7 @@
 **Software engineering leader**, entrepreneur and open source enthusiast. Contributor to PHP language extensions, Blender translations and dozens of other projects of my own. My interests and hobbies lie on graphics and game programming, security and more recently data science.
 
+My passion lies in the creation of high performing engineering organisations where value is delivered continuously to all parties: people, businesses and software.
+
 ||Github org|Description|
 |-|-|-|
 |![Ponup logo](https://avatars1.githubusercontent.com/u/8886119?s=25)|[Ponup](https://github.com/Ponup) team|A collection of small games and graphical demos. This is where the PHP extensions for SDL, OpenGL and OpenAL are hosted.|
